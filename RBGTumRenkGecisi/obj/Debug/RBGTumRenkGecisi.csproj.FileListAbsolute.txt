@@ -1,0 +1,30 @@
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.exe.config
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.exe
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.pdb
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.Form1.resources
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.Properties.Resources.resources
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.exe
+C:\Users\Asus\Desktop\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.pdb
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.exe.config
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.exe
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.pdb
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csprojResolveAssemblyReference.cache
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.Form1.resources
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.Properties.Resources.resources
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csproj.GenerateResource.Cache
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csproj.CoreCompileInputs.cache
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.exe
+E:\Marmara Üniversitesi 2-2\Programlama Dilleri 2\FinalCalismalari\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.pdb
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.exe.config
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.exe
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\bin\Debug\RBGTumRenkGecisi.pdb
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csprojAssemblyReference.cache
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.Form1.resources
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.Properties.Resources.resources
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csproj.GenerateResource.cache
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.csproj.CoreCompileInputs.cache
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.exe
+F:\Github C#\RBGTumRenkGecisi\RBGTumRenkGecisi\obj\Debug\RBGTumRenkGecisi.pdb
